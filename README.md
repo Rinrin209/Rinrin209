@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding for educational purposes
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on phone number
+- 📫 reach me on phone number
